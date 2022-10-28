@@ -1,5 +1,5 @@
-# Problem from LeetCode
+# Problems from LeetCode
 
-Problem from https://leetcode.com/
+Problems from https://leetcode.com/problemset/all/
 
 https://leetcode.com/fiskov/
